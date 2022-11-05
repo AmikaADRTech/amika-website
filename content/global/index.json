@@ -8,26 +8,6 @@
     "color": "default",
     "nav": [
       {
-        "href": "home",
-        "label": "Home"
-      },
-      {
-        "href": "home",
-        "label": "Home"
-      },
-      {
-        "href": "home",
-        "label": "Home"
-      },
-      {
-        "href": "home",
-        "label": "Home"
-      },
-      {
-        "href": "home",
-        "label": "Home"
-      },
-      {
         "href": "about",
         "label": "About"
       },
