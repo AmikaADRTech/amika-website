@@ -39,6 +39,7 @@ import { FiAperture } from "react-icons/fi";
 import { useTheme } from "../layout";
 import { FaBeer, FaCoffee } from "react-icons/fa";
 import TinaIconSvg from "../../public/tina.svg";
+import Logo from "../../public/logo.svg";
 import type { TinaField } from "tinacms";
 
 const iconOptions = {
@@ -62,6 +63,7 @@ const iconOptions = {
   world: { bi: BiWorld, hi: BiWorld },
   aperture: { bi: FiAperture, hi: FiAperture },
   tina: { bi: TinaIconSvg, hi: TinaIconSvg },
+  logo: { bi: Logo, hi: Logo },
 };
 
 const iconColorClass: { [name: string]: { regular: string; circle: string } } =

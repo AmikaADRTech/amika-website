@@ -69,8 +69,8 @@ export const Header = ({ data }) => {
                     style: data.icon.style,
                   }}
                   className="inline-block h-auto w-10 mr-1"
-                />{" "}
-                Tina Starter
+                />
+                Amika - A Society for Alternative Dispute Resolution
               </a>
             </Link>
           </h4>

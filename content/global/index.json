@@ -3,17 +3,21 @@
     "icon": {
       "color": "orange",
       "style": "float",
-      "name": "tina"
+      "name": "logo"
     },
     "color": "default",
     "nav": [
       {
-        "href": "",
+        "href": "home",
         "label": "Home"
       },
       {
         "href": "about",
         "label": "About"
+      },
+      {
+        "href": "services",
+        "label": "Services"
       },
       {
         "href": "posts",
@@ -24,9 +28,9 @@
   "footer": {
     "color": "default",
     "social": {
-      "facebook": "/",
-      "twitter": "/",
-      "instagram": "/"
+      "facebook": "https://www.facebook.com/amikaadr",
+      "twitter": "https://twitter.com/amikaadr",
+      "instagram": ""
     }
   },
   "theme": {
