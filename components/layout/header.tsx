@@ -70,7 +70,7 @@ export const Header = ({ data }) => {
                   }}
                   className="inline-block h-auto w-10 mr-1"
                 />
-                Amika - A Society for Alternative Dispute Resolution
+                {data.siteName}
               </a>
             </Link>
           </h4>

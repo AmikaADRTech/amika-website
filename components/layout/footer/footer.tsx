@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
-import { FaFacebookF, FaGithub, FaTwitter } from "react-icons/fa";
-import { AiFillInstagram } from "react-icons/ai";
+import { FaFacebookF, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 import { Container } from "../../util/container";
 import { RawRenderer } from "./rawRenderer";
 import { useTheme } from "..";
@@ -82,6 +82,21 @@ export const Footer = ({ data, icon, rawData }) => {
                 target="_blank"
               >
                 <FaTwitter
+                  className={`${socialIconClasses} ${
+                    socialIconColorClasses[
+                      data.color === "primary" ? "primary" : theme.color
+                    ]
+                  }`}
+                />
+              </a>
+            )}
+            {data.social && data.social.linkedin && (
+              <a
+                className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
+                href={data.social.linkedin}
+                target="_blank"
+              >
+                <FaLinkedin
                   className={`${socialIconClasses} ${
                     socialIconColorClasses[
                       data.color === "primary" ? "primary" : theme.color

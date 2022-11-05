@@ -58,7 +58,7 @@ export const Layout = ({ rawData = {}, data = layoutData, children }) => {
             "name" : "AMIKA",
             "image" : "https://www.amikaadr.com/assets/logo.png",
             "telephone" : [ "+91 9676875789", "+91 8096600333" ],
-            "email" : "amikaadr@gmail.com",
+            "email" : "registrar@amikaadr.com",
             "address" : {
                 "@type" : "PostalAddress",
                 "streetAddress" : "AMIKA 101, Manya Apartments Ganeshnagar, Vanasthalipuram Road",

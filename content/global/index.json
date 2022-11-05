@@ -6,6 +6,7 @@
       "name": "logo"
     },
     "color": "default",
+    "siteName": "AMIKA Council of Arbitration and Mediation",
     "nav": [
       {
         "href": "about",
@@ -16,12 +17,20 @@
         "label": "Services"
       },
       {
+        "href": "people",
+        "label": "People Behind Amika"
+      },
+      {
+        "href": "membership",
+        "label": "Members"
+      },
+      {
         "href": "posts",
         "label": "Blog"
       },
       {
-        "href": "membership",
-        "label": "Membership"
+        "href": "contact",
+        "label": "Contact Us"
       }
     ]
   },
@@ -30,7 +39,7 @@
     "social": {
       "facebook": "https://www.facebook.com/amikaadr",
       "twitter": "https://twitter.com/amikaadr",
-      "instagram": ""
+      "linkedin": "https://www.linkedin.com/in/amika-adr-33bb4520b/"
     }
   },
   "theme": {
@@ -38,10 +47,5 @@
     "font": "sans",
     "icon": "boxicon",
     "darkMode": "system"
-  },
-  "_collection": "global",
-  "_keepTemplateKey": false,
-  "_template": "global",
-  "_relativePath": "index.json",
-  "_id": "content/global/index.json"
+  }
 }

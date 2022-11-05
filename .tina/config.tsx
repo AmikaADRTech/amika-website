@@ -169,6 +169,11 @@ const config = defineStaticConfig({
                 ],
               },
               {
+                type: "string",
+                label: "Site Name",
+                name: "siteName"
+              },
+              {
                 type: "object",
                 label: "Nav Links",
                 name: "nav",
@@ -235,6 +240,11 @@ const config = defineStaticConfig({
                     type: "string",
                     label: "Github",
                     name: "github",
+                  },
+                  {
+                    type: "string",
+                    label: "LinkedIn",
+                    name: "linkedin",
                   },
                 ],
               },
