@@ -18,6 +18,10 @@
       {
         "href": "posts",
         "label": "Blog"
+      },
+      {
+        "href": "members",
+        "label": "Membership"
       }
     ]
   },
