@@ -77,7 +77,7 @@ export const Header = ({ data }) => {
                   AMIKA
                 </h1>
                 <h2 className="select-none text-3xl font-bold tracking-tight mb-2 transition duration-150 ease-out transform">
-                  COUNCIL OF ARBITRATION AND MEDIATION
+                  COUNCIL FOR ARBITRATION AND MEDIATION
                 </h2>
                 <h2 className="select-none text-base font-bold tracking-tight my-1 transition duration-150 ease-out transform">
                   Under the agies of AMIKA, A society for Alternative Dispute Resolution
