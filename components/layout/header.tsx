@@ -56,24 +56,50 @@ export const Header = ({ data }) => {
 
   return (
     <div className={`bg-gradient-to-b ${headerColorCss}`}>
-      <Container size="custom" className="py-0 relative z-10 max-w-8xl">
-        <div className="flex items-center justify-between">
-          <h4 className="select-none text-lg font-bold tracking-tight my-4 transition duration-150 ease-out transform">
-            <Link href="/" passHref>
-              <a className="flex items-center">
-                <Icon
-                  parentColor={data.color}
-                  data={{
-                    name: data.icon.name,
-                    color: data.icon.color,
-                    style: data.icon.style,
-                  }}
-                  className="inline-block h-auto w-10 mr-1"
-                />
-                {data.siteName}
-              </a>
-            </Link>
-          </h4>
+      <div className=" bg-[#313AC4] text-white">
+      <Container
+        size="custom"
+        className="py-0 relative z-10 max-w-8xl bg-[#313AC4] text-white"
+      >
+          <Link href="/" passHref>
+            <a className="flex items-center justify-center">
+              <Icon
+                parentColor={data.color}
+                data={{
+                  name: data.icon.name,
+                  color: data.icon.color,
+                  style: data.icon.style,
+                }}
+                className="inline-block h-auto w-10 mr-1"
+              />
+              <div className="text-center font-maiandra">
+                <h1 className="select-none text-5xl font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                  AMIKA
+                </h1>
+                <h2 className="select-none text-xl font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                  Council of Arbitration and Mediation
+                </h2>
+                <h2 className="select-none text-base font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                  Under the agies of AMIKA, A society for Alternative Dispute Resolution
+                </h2>
+                <h2 className="select-none text-base font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                  Reg.No 416/2021{" "}
+                </h2>
+                <h3 className="select-none text-base font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                  (Registered under Section 3 of Societies Registration Act 2001
+                  of Govt. of Telangana)
+                </h3>
+              </div>
+            </a>
+          </Link>
+      </Container>
+      </div>
+      <div className="bg-[#4EAC5B] text-white">
+      <Container
+        size="custom"
+        className="py-0 relative z-10 max-w-8xl "
+      >
+        <div className="flex items-center justify-center">
           <ul className="flex gap-6 sm:gap-8 lg:gap-10">
             {data.nav &&
               data.nav.map((item, i) => {
@@ -102,7 +128,7 @@ export const Header = ({ data }) => {
             data.color === "primary" ? `via-white` : `via-black dark:via-white`
           } to-transparent bottom-0 left-4 right-4 -z-1 opacity-5`}
         />
-      </Container>
+      </Container></div>
     </div>
   );
 };

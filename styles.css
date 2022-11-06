@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Maiandra GD";
+    src: url(public/Maiandra\ GD\ Regular.ttf);
+}
