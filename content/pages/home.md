@@ -2,7 +2,7 @@
 title: Amika ADR
 blocks:
   - tagline: ''
-    headline: Welcome to the Amika
+    headline: Welcome to Amika
     text: >
       AMIKA has a panel of trained and certified mediators, advocates, senior
       bureaucrats, national and international experts.
