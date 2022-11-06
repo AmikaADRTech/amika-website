@@ -26,7 +26,7 @@
       },
       {
         "href": "posts",
-        "label": "Blog"
+        "label": "News & Information"
       },
       {
         "href": "contact",
@@ -47,5 +47,10 @@
     "font": "sans",
     "icon": "boxicon",
     "darkMode": "system"
-  }
+  },
+  "_collection": "global",
+  "_keepTemplateKey": false,
+  "_template": "global",
+  "_relativePath": "index.json",
+  "_id": "content/global/index.json"
 }
