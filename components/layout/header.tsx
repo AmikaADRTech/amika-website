@@ -56,13 +56,13 @@ export const Header = ({ data }) => {
 
   return (
     <div className={`bg-gradient-to-b ${headerColorCss}`}>
-      <div className=" bg-[#313AC4] text-white">
+      <div className=" bg-[#313AC4] text-white pb-2">
       <Container
         size="custom"
         className="py-0 relative z-10 max-w-8xl bg-[#313AC4] text-white"
       >
           <Link href="/" passHref>
-            <a className="flex items-center justify-center">
+            <a className="flex items-center justify-evenly">
               <Icon
                 parentColor={data.color}
                 data={{
@@ -70,22 +70,22 @@ export const Header = ({ data }) => {
                   color: data.icon.color,
                   style: data.icon.style,
                 }}
-                className="inline-block h-auto w-10 mr-1"
+                className="inline-block h-auto w-1/5 mr-10"
               />
               <div className="text-center font-maiandra">
-                <h1 className="select-none text-5xl font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                <h1 className="select-none text-5xl font-bold tracking-tight my-1 transition duration-150 ease-out transform">
                   AMIKA
                 </h1>
-                <h2 className="select-none text-xl font-bold tracking-tight my-4 transition duration-150 ease-out transform">
-                  Council of Arbitration and Mediation
+                <h2 className="select-none text-3xl font-bold tracking-tight mb-2 transition duration-150 ease-out transform">
+                  COUNCIL OF ARBITRATION AND MEDIATION
                 </h2>
-                <h2 className="select-none text-base font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                <h2 className="select-none text-base font-bold tracking-tight my-1 transition duration-150 ease-out transform">
                   Under the agies of AMIKA, A society for Alternative Dispute Resolution
                 </h2>
-                <h2 className="select-none text-base font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                <h2 className="select-none text-base font-bold tracking-tight my-1 transition duration-150 ease-out transform">
                   Reg.No 416/2021{" "}
                 </h2>
-                <h3 className="select-none text-base font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+                <h3 className="select-none text-base font-bold tracking-tight my-1 transition duration-150 ease-out transform">
                   (Registered under Section 3 of Societies Registration Act 2001
                   of Govt. of Telangana)
                 </h3>
@@ -114,7 +114,7 @@ export const Header = ({ data }) => {
                     className={activeItem ? activeItemClasses[theme.color] : ""}
                   >
                     <Link href={`${prefix}/${item.href}`} passHref>
-                      <a className="select-none	text-base inline-block tracking-wide font-regular transition duration-150 ease-out opacity-70 hover:opacity-100 py-8">
+                      <a className="select-none	text-base inline-block tracking-wide font-regular transition duration-150 ease-out opacity-70 hover:opacity-100 py-4">
                         {item.label}
                       </a>
                     </Link>
