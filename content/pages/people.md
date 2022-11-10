@@ -3,22 +3,15 @@ title: Advisory Council
 blocks:
   - tagline: Here's some text above the other text
     headline: 'Dr. Satish Chandra, MBA, LLB, PhD'
-    text: |+
+    text: |
       Retired, Regional PF Commissioner,&#x20;
 
       Saket
       New Delhi
-
-
-
-
-
-
-
     _template: hero
   - tagline: Here's some text above the other text
     headline: 'Dr. Sharad Singh MBA, Ph,D'
-    text: >+
+    text: >
       Retired Regional PF Commissioner,&#x20;
 
       EPFO,
@@ -27,49 +20,22 @@ blocks:
       UNDP, Dwaraka,
 
       New Delhi
-
-
-
-
-
-
-
     _template: hero
   - tagline: Here's some text above the other text
     headline: Sh. V. Vijaya Kumar MA LLM
-    text: |+
+    text: |
       Presiding
       Officer
 
       Central Government Industrial Tribunal and Labour Court Ernakulam,
       Kerala
-
-
-
-
-
-
-
     _template: hero
   - tagline: ''
-    headline: >-
-      Dr. Shailendra Kumar Thakur MBA, LLM, PhD Presiding Officer Central
-      Government Industrial Tribunal and Labour Court Dhanbad
-    text: |+
-
-
-
-
+    headline: 'Dr. Shailendra Kumar Thakur MBA, LLM, PhD '
+    text: |
       Presiding
       Officer Central
       Government Industrial Tribunal and Labour Court Dhanbad
-
-
-
-
-
-
-
     _template: hero
   - tagline: ''
     headline: G. JYOTHI RAO
