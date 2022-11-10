@@ -2,6 +2,21 @@
 title: Advisory Council
 blocks:
   - tagline: Here's some text above the other text
+    headline: 'Dr. Satish Chandra, MBA, LLB, PhD'
+    text: |+
+      Retired, Regional PF Commissioner,&#x20;
+
+      Saket
+      New Delhi
+
+
+
+
+
+
+
+    _template: hero
+  - tagline: Here's some text above the other text
     headline: 'Dr. Sharad Singh MBA, Ph,D'
     text: >+
       Retired Regional PF Commissioner,&#x20;
