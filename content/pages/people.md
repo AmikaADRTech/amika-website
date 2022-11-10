@@ -2,6 +2,25 @@
 title: Advisory Council
 blocks:
   - tagline: Here's some text above the other text
+    headline: 'Dr. Sharad Singh MBA, Ph,D'
+    text: >+
+      Retired Regional PF Commissioner,&#x20;
+
+      EPFO,
+
+      Ministry of Labour, Government of India, Senior International Consultant,
+      UNDP, Dwaraka,
+
+      New Delhi
+
+
+
+
+
+
+
+    _template: hero
+  - tagline: Here's some text above the other text
     headline: Sh. V. Vijaya Kumar MA LLM
     text: |+
       Presiding
