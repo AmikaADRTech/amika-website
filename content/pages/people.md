@@ -2,6 +2,26 @@
 title: Advisory Council
 blocks:
   - tagline: ''
+    headline: >-
+      Dr. Shailendra Kumar Thakur MBA, LLM, PhD Presiding Officer Central
+      Government Industrial Tribunal and Labour Court Dhanbad
+    text: |+
+
+
+
+
+      Presiding
+      Officer Central
+      Government Industrial Tribunal and Labour Court Dhanbad
+
+
+
+
+
+
+
+    _template: hero
+  - tagline: ''
     headline: G. JYOTHI RAO
     text: "G. Jyothi Rao is an advocate in India with nearly three decades of standing as a practicing advocate in Indian Courts.\n\nShe has been practicing as an advocate since 1991 (30 years) in different courts of the country including Delhi High Court, National Consumer Disputes Redressal Commission, and courts in Telangana state of India.\n\nShe was appointed as an Amicus Curie in a number of criminal cases in Delhi by the Delhi courts where she supported the courts to come to a logical conclusion in a number of typical criminal cases which were otherwise were very intricate. Her approach of analysing the cases brought many criminals to books.\n\nShe was appointed to work as a Legal Aid Counsel by Delhi Government Legal Aid Services Authority to extend legal support to the needy and indigent people. She is specialised in criminal cases relating to rape, domestic violence and dowry issues. She has been the most sought after advocate in Delhi Courts whenever a dispute arose between a husband and wife or a rape and kidnap of girls.\n\nWhile working as Legal Aid counsel, she was deputed by the Delhi Courts for mediation, conciliation and legal support to resolved disputes outside the court. She has successfully mediated and satisfactorily settled the disputes avoiding the lengthy court procedures. She has taken up Jail/Prison visits to support under trials in legal matters and take them to the court on time.\n\nJyothi Rao is also a Notary Public Appointed by Government of India from May, 2011. She is a Trained and Certified Mediator.\n\nJyothi Rao holds a Bachelor’s degree in Law from the SV University (1990), a Bachelors Degree in Commerce from the Osmania University (1985), a Masters Degree in Telugu literature from the Osmania University (1987). She holds certificate in computer applications from Computer Maintenance Corporation of India. She is excellent in Telugu, and Hindi languages in addition to English.\\\n\\\nPhone:\_[+91 9676875789](tel:+919676875789)\n\nEmail:\_[jgauji@gmail.com](mailto:jgauji@gmail.com)\n"
     image:
