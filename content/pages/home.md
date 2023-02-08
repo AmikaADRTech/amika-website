@@ -1,7 +1,7 @@
 ---
-title: Amika ADR
+title: AAMC
 blocks:
-  - body: >+
+  - body: >
       ### What is AMIKA?
 
 
@@ -90,7 +90,7 @@ blocks:
       Arbitration, and Conciliation AMIKA has been established as a Registered
       Society for Alternative Disputes Resolution under societies registration
       act for taking up the disputes for out of court settlement.
-
     color: default
     _template: content
 ---
+
