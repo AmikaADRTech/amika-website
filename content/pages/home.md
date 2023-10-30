@@ -2,12 +2,12 @@
 title: AAMC
 blocks:
   - body: >
-      ### What is AMIKA?
+      ### What is AAMC?
 
 
-      * AMIKA Arbitration and Mediation Council, (AAMC) established by Amika a
-      Society for Alternative Dispute Resolution(ADR) registered under Section 3
-      of the Societies Registration Act 2001 of the Government of Telangana,
+      * AMIKA Arbitration and Mediation Council, (AAMC) was established by Amika
+      a Society for Alternative Dispute Resolution(ADR) registered under Section
+      3 of the Societies Registration Act 2001 of the Government of Telangana,
 
       * AAMC has a panel of trained and certified mediators, advocates, senior
       bureaucrats, national and international experts;
