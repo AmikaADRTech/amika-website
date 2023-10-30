@@ -2,13 +2,13 @@
 title: Services
 blocks:
   - body: >+
-      ### Services Rendered By AMIKA
+      ### Services Rendered By AAMC
 
 
-      ADR Service rendered by AMIKA are specifically in the area of in disputes
-      relating to Trade, Business, Commerce, Property, Matrimony, Family,
-      Domestic Violence and all other issues where outside the court settlement
-      is possible and permissible under the law.
+      ADR Services rendered by AMIKA AMC are specifically in the area of
+      disputes relating to Trade, Business, Commerce, Property, Matrimony,
+      Family, Domestic Violence, and all other issues where outside the court
+      settlement is possible and permissible under the law.
 
 
       The Services Include:
