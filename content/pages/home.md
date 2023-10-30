@@ -2,7 +2,7 @@
 title: AAMC
 blocks:
   - body: >
-      ### What is AAMC?
+      ### What is AMIKA AMC?
 
 
       * AMIKA Arbitration and Mediation Council, (AAMC) was established by Amika
