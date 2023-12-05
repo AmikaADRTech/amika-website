@@ -38,10 +38,10 @@ blocks:
       ### Why AMIKA AMC?
 
 
-      Indian Courts are undergoing a number of challenges like mounting overload
-      of work, increasing number of cases, and piling up of pendency, in
-      addition to receipt and disposal of cases that do not require litigation
-      in a formal judicial system and can be resolved through an open dialogue
+      Indian Courts are undergoing many challenges like mounting overload of
+      work, increasing number of cases, and piling up of pendency, in addition
+      to receipt and disposal of cases that do not require litigation in a
+      formal judicial system and can be resolved through an open dialogue
       between litigants. The situation warrants alternative dispute resolution
       methods. It was in this background; that a Conference of Chief Ministers
       and Chief Justices of various states was held in New Delhi on 4th December
@@ -50,21 +50,21 @@ blocks:
       following resolution:
 
 
-      The Chief Ministers and Chief Justices were of the opinion that Courts
-      were not in a position to bear the entire burden of the justice system and
-      that a number of disputes lent themselves to resolution by alternative
-      modes such as arbitration, mediation and negotiation. They emphasized the
-      desirability of disputants taking advantage of alternative dispute
-      resolution which provided procedural flexibility, saved valuable time and
-      money and avoided the stress of a conventional trial. It was felt that in
-      a developing country like India with major economic reforms underway
-      within the -work of rule of law, strategies for swifter resolution of
-      disputes for lessening the burden on the Courts and to provide means for
-      expeditious resolution of disputes, there is no better option but to
-      strive to develop alternative modes of dispute resolution by establishing
-      facilities for providing settlement of disputes through arbitration,
-      conciliation, mediation, negotiation” ( Ref: ICADR website). Thereafter,
-      Arbitration, Conciliation, and Mediation have gained prominence
+      The Chief Ministers and Chief Justices believed that Courts were not in a
+      position to bear the entire burden of the justice system and that many
+      disputes lent themselves to resolution by alternative modes such as
+      arbitration, mediation and negotiation. They emphasized the desirability
+      of disputants taking advantage of alternative dispute resolution which
+      provided procedural flexibility, saved valuable time and money and avoided
+      the stress of a conventional trial. It was felt that in a developing
+      country like India with major economic reforms underway within the -work
+      of rule of law, strategies for swifter resolution of disputes for
+      lessening the burden on the Courts and to provide means for expeditious
+      resolution of disputes, there is no better option but to strive to develop
+      alternative modes of dispute resolution by establishing facilities for
+      providing settlement of disputes through arbitration, conciliation,
+      mediation, negotiation” ( Ref: ICADR website). Thereafter, Arbitration,
+      Conciliation, and Mediation have gained prominence
 
 
       For early settlement of disputes by arbitration, the Arbitration and
