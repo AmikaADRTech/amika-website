@@ -1,7 +1,7 @@
 ---
 title: Services
 blocks:
-  - body: >+
+  - body: >
       ### Services Rendered By AAMC
 
 
@@ -27,7 +27,6 @@ blocks:
       6. Training and Capacity Development in Alternative Dispute Resolution
 
       7. Support for drafting settlements and agreements
-
     color: default
     _template: content
 ---
