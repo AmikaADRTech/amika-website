@@ -71,14 +71,14 @@ blocks:
       Conciliation Act, of 1996 was enacted that was brought into force with
       effect from 22 August 1996. Thus, Arbitration has become a part of
       Alternative Disputes Resolution. Furthermore, it appears from the amended
-      Section 89(1) of the Code of Civil Procedure, 1908 that it is the duty of
-      the court to refer the disputes either by way of an Arbitration,
-      Conciliation, Judicial settlement, settlement through Lok Adalats or
-      Mediation if the courts feel that there are elements of the settlement.
-      Additionally, Section 12 A of the Commercial Courts Act 2015 makes
-      Mediation at the Pre-Institution Stage of the litigation mandatory. Later,
-      Commercial Courts (Pre-Institution Mediation and Settlement) Rules, 2018
-      were notified on 3rd July 2018.
+      Section 89(1) of the Code of Civil Procedure, 1908 that the court must
+      refer the disputes either by way of an Arbitration, Mediation, Judicial
+      settlement, settlement through Lok Adalats or Mediation if the courts feel
+      that there are elements of the settlement. Additionally, Section 12 A of
+      the Commercial Courts Act 2015 makes Mediation at the Pre-Institution
+      Stage of the litigation mandatory. Later, Commercial Courts
+      (Pre-Institution Mediation and Settlement) Rules, 2018 were notified on
+      3rd July 2018.
 
 
       The Mediation and Conciliation Project Committee (MCPC) 2005 established
